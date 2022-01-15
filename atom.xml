@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://juneix.gq</id>
-    <title>谢週五の导航站Beta</title>
-    <updated>2022-01-15T11:17:35.803Z</updated>
+    <title>谢週五の导航站 Beta</title>
+    <updated>2022-01-15T11:22:02.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://juneix.gq"/>
     <link rel="self" href="https://juneix.gq/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://juneix.gq/images/avatar.png</logo>
     <icon>https://juneix.gq/favicon.ico</icon>
-    <rights>All rights reserved 2022, 谢週五の导航站Beta</rights>
+    <rights>All rights reserved 2022, 谢週五の导航站 Beta</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://juneix.gq/post/hello-gridea/</id>
